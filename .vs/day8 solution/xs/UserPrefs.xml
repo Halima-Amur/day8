@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C0424B3A-4C43-444E-9EA9-2C3C1DD56FFD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="day8/phoneBook.cs">
+    <Files>
+      <File FileName="day8/Program.cs" Line="35" Column="30" />
+      <File FileName="day8/EmptyClass.cs" Line="21" Column="3" />
+      <File FileName="day8/phoneBook.cs" Line="9" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="day8 solution" expanded="True">
+            <Node name="day8" expanded="True">
+              <Node name="phoneBook.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.day8 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

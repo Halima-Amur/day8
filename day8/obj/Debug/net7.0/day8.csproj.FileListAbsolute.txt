@@ -1,0 +1,15 @@
+/Users/abc/Projects/day8 solution/day8/bin/Debug/net7.0/day8
+/Users/abc/Projects/day8 solution/day8/bin/Debug/net7.0/day8.deps.json
+/Users/abc/Projects/day8 solution/day8/bin/Debug/net7.0/day8.runtimeconfig.json
+/Users/abc/Projects/day8 solution/day8/bin/Debug/net7.0/day8.dll
+/Users/abc/Projects/day8 solution/day8/bin/Debug/net7.0/day8.pdb
+/Users/abc/Projects/day8 solution/day8/obj/Debug/net7.0/day8.csproj.AssemblyReference.cache
+/Users/abc/Projects/day8 solution/day8/obj/Debug/net7.0/day8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abc/Projects/day8 solution/day8/obj/Debug/net7.0/day8.AssemblyInfoInputs.cache
+/Users/abc/Projects/day8 solution/day8/obj/Debug/net7.0/day8.AssemblyInfo.cs
+/Users/abc/Projects/day8 solution/day8/obj/Debug/net7.0/day8.csproj.CoreCompileInputs.cache
+/Users/abc/Projects/day8 solution/day8/obj/Debug/net7.0/day8.dll
+/Users/abc/Projects/day8 solution/day8/obj/Debug/net7.0/refint/day8.dll
+/Users/abc/Projects/day8 solution/day8/obj/Debug/net7.0/day8.pdb
+/Users/abc/Projects/day8 solution/day8/obj/Debug/net7.0/day8.genruntimeconfig.cache
+/Users/abc/Projects/day8 solution/day8/obj/Debug/net7.0/ref/day8.dll
